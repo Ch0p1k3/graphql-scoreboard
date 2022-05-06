@@ -1,4 +1,4 @@
-# Wikipedia distance. Rabbit MQ
+# Scoreboard. GraphQL
 
 This is GraphQL practice. Using python3.9.
 
